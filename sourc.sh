@@ -8,5 +8,4 @@ yes|pkg install fish
 yes|pkg install ruby
 gem install lolcat
 yes|pkg install figlet
-
-w0,
+bash theme.sh
